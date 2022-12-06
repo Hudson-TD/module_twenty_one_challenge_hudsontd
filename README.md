@@ -27,12 +27,6 @@ After installing npm package dependencies, the application will be invoked by us
 npm run develop
 ```
 
-## Usage
-
-This application is deployed on Heroku, for ease of use we recommend navigating to the live URL below to interact and use this project:
-
-
-
 ##  Technologies used
 
 - JavaScript
