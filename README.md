@@ -7,7 +7,6 @@ MERN stack app powered via Google Books API, GraphQL, & Apollo Server. User can 
 ## Table of Contents 
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Technologies used](#technologies-used)
 - [Contributing](#contributing)
 - [Questions](#questions)
